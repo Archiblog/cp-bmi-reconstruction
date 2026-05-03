@@ -6,7 +6,9 @@ This repository records the ongoing production of research facsimiles, interpret
 
 ## Portal Frame Study — Primary Structure (v1)
 
-![Portal Frame Study](https://raw.githubusercontent.com/Archiblog/cp-bmi-reconstruction/main/drawings/png/preview/portal-frame-study-v1.png)
+
+
+https://github.com/Archiblog/cp-bmi-reconstruction/blob/main/drawings/png/preview/%20portal-frame-study-v1.png
 
 Initial placeholder showing a reduced interpretation of the primary structural system.
 
