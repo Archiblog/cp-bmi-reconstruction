@@ -10,4 +10,4 @@ This repository records the ongoing production of research facsimiles, interpret
 
 Initial placeholder showing a reduced interpretation of the primary structural system.
 
-“Primary structure indicated in pink; grid shown for context only.”
+
