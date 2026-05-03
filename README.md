@@ -9,6 +9,7 @@ This repository records the ongoing production of research facsimiles, interpret
 ![Portal Frame Study](drawings/png/preview/portal-frame-study-v1.png)
 
 
-Initial placeholder showing a reduced interpretation of the primary structural system.
+Initial placeholder showing a reduced interpretation of the primary structural system.  
+Primary structure indicated in pink; grid shown for context.
 
 
