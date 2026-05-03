@@ -8,6 +8,8 @@ This repository records the ongoing production of research facsimiles, interpret
 
 ![Portal Frame Study](images/portal.png)
 
+nb Image linked pending rendering resolution.
+
 Initial placeholder showing a reduced interpretation of the primary structural system.
 
 
