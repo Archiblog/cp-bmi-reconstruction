@@ -1,3 +1,15 @@
 # Birmingham and Midland Institute
 
 [Home](/) | [Architecture](https://archiblog.github.io/Architecture/) | [Edukit](https://archiblog.github.io/edukit/) | [BMI](https://archiblog.github.io/bmi/)
+
+Live digital reconstruction and progressive SVG study of Cedric Price’s BMI drawings.
+
+This repository records the ongoing production of research facsimiles, interpretive SVG drawings, and methodological reflections.
+
+Portal Frame Study — Primary Structure (v1)
+Portal Frame Study
+
+Initial placeholder showing a reduced interpretation of the primary structural system.
+Primary structure indicated in pink; grid shown for context.
+
+
