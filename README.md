@@ -1,4 +1,4 @@
-# file-094-bmi
+# series-02-file-094-bmi
 
 Live digital reconstruction and progressive SVG study of Cedric Price’s BMI drawings.
 
