@@ -1,4 +1,4 @@
-# cp-bmi-reconstruction
+# file-094-bmi
 
 Live digital reconstruction and progressive SVG study of Cedric Price’s BMI drawings.
 
